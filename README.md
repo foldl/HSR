@@ -12,7 +12,7 @@ HSR is dedicated to solving the pain point of renaming things.
 
 ```Mathematica
 f = HSR["windows","harmony"];
-f @ "windows 10 is the newest version"
+f @ "windows 10 is the newest W.I.N.D.O.W.S version"
 f @ "Windows 2000 is built on NT"
 f @ "WINdows is funny"
 

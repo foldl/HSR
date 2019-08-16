@@ -11,7 +11,7 @@ HSR 致力于解决为事物重新命名这一痛点。
 
 ```Mathematica
 蒙之 = HSR["windows","harmony"];
-蒙之 @ "windows 10 is the newest version"
+蒙之 @ "windows 10 is the newest W.I.N.D.O.W.S version"
 蒙之 @ "Windows 2000 is built on NT"
 蒙之 @ "WINdows is funny"
 
