@@ -30,6 +30,7 @@ Reference implementations using difference languages are listed below in alphabe
 * [`JavaScript`](hsr.js)
 * [`Julia`](hsr.jl)
 * [`Mathematica`](hsr.m)
+* [`Nim`](hsr.nim)
 * [`Python`](hsr.py)
 * [`TypeScript`](hsr.ts)
 

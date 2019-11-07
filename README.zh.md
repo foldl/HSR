@@ -29,6 +29,7 @@ HSR 致力于解决为事物重新命名这一痛点。
 * [`JavaScript`](hsr.js)
 * [`Julia`](hsr.jl)
 * [`Mathematica`](hsr.m)
+* [`Nim`](hsr.nim)
 * [`Python`](hsr.py)
 * [`TypeScript`](hsr.ts)
 
