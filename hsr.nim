@@ -16,7 +16,7 @@ func hsr0(s, sp, origin: string): string =
   while true:
     let pos = find(a, origin.toLower, ls, start)
     if pos < 0: break
-    result &= origin[start..pos - 1] & caseawarenessconvert(origin[pos..pos + ls.len - 1], sp)
+    result &= origin[start ..< pos] & caseawarenessconvert(origin[pos ..< pos + ls.len], sp)
     start = pos + ls.len
 
   result &= origin[start..origin.high]
